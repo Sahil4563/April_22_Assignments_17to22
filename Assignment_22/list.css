@@ -1,0 +1,33 @@
+#todo-list{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-item{
+    margin-top: 20px;
+}
+.btn{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    color: aliceblue;
+}

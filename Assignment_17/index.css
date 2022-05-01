@@ -1,0 +1,15 @@
+#h1{
+    background-color: aqua;
+    border: 5px;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.large-size{
+height: 500px;
+width: 500px;
+}
+.normal-size{
+    height: 300px;
+width: 300px;
+}
